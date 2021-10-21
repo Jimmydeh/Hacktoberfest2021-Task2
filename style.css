@@ -1,8 +1,46 @@
+body {
+    background-color: tomato;
+}
+
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
-    font-size: 10px;
+    font-size: 40px;
+}
+
+#name{
+    text-align: center;
+    color:rgb(12, 24, 182);
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#country {
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    text-align: center;
+    
+}
+
+#black{
+    color: black;
+}
+
+#red{
+    color: red;
+}
+
+#yellow{
+    color: yellow;
 }
